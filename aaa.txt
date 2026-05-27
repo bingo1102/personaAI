@@ -12,3 +12,5 @@ else:
     grade ='F'
 
 print('점수 =',score, ' 등급 =', grade)
+print("0527 수요일 6교시 변경")
+print("리눅스 설치  변경")
